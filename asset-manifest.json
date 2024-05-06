@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8ef5238.css",
-    "main.js": "/static/js/main.1fab0086.js",
-    "static/media/Mobile-appliction.png": "/static/media/Mobile-appliction.a83aa343344cc70c0b04.png",
-    "static/media/EdgeSalesConnectSystem.jpg": "/static/media/EdgeSalesConnectSystem.34a716fb927965c0a8f2.jpg",
-    "index.html": "/index.html",
-    "main.b8ef5238.css.map": "/static/css/main.b8ef5238.css.map",
-    "main.1fab0086.js.map": "/static/js/main.1fab0086.js.map"
+    "main.css": "/crtomas-portfolio/static/css/main.b8ef5238.css",
+    "main.js": "/crtomas-portfolio/static/js/main.cbe799b6.js",
+    "static/media/Mobile-appliction.png": "/crtomas-portfolio/static/media/Mobile-appliction.a83aa343344cc70c0b04.png",
+    "static/media/EdgeSalesConnectSystem.jpg": "/crtomas-portfolio/static/media/EdgeSalesConnectSystem.34a716fb927965c0a8f2.jpg",
+    "index.html": "/crtomas-portfolio/index.html",
+    "main.b8ef5238.css.map": "/crtomas-portfolio/static/css/main.b8ef5238.css.map",
+    "main.cbe799b6.js.map": "/crtomas-portfolio/static/js/main.cbe799b6.js.map"
   },
   "entrypoints": [
     "static/css/main.b8ef5238.css",
-    "static/js/main.1fab0086.js"
+    "static/js/main.cbe799b6.js"
   ]
 }
