@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/crtomas-portfolio/static/css/main.b8ef5238.css",
-    "main.js": "/crtomas-portfolio/static/js/main.cbe799b6.js",
+    "main.js": "/crtomas-portfolio/static/js/main.41376c63.js",
     "static/media/Mobile-appliction.png": "/crtomas-portfolio/static/media/Mobile-appliction.a83aa343344cc70c0b04.png",
     "static/media/EdgeSalesConnectSystem.jpg": "/crtomas-portfolio/static/media/EdgeSalesConnectSystem.34a716fb927965c0a8f2.jpg",
     "index.html": "/crtomas-portfolio/index.html",
     "main.b8ef5238.css.map": "/crtomas-portfolio/static/css/main.b8ef5238.css.map",
-    "main.cbe799b6.js.map": "/crtomas-portfolio/static/js/main.cbe799b6.js.map"
+    "main.41376c63.js.map": "/crtomas-portfolio/static/js/main.41376c63.js.map"
   },
   "entrypoints": [
     "static/css/main.b8ef5238.css",
-    "static/js/main.cbe799b6.js"
+    "static/js/main.41376c63.js"
   ]
 }
