@@ -41,7 +41,7 @@ const MyProfile = forwardRef<HTMLDivElement>((props, ref) => {
         {/* Resume button */}
         <div className="mr-4">
           <a
-            href="https://drive.google.com/file/d/19EoXGx9iake5o8_cW4w3N6fkfZXtjS1i/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1Rhbz7p1tUDrFt-c25Ev8sNMBMiPMURo9/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-blue-500 text-white font-extrabold text-lg py-2 px-4 rounded-2xl flex items-center"
@@ -52,7 +52,7 @@ const MyProfile = forwardRef<HTMLDivElement>((props, ref) => {
         {/* LinkedIn button */}
         <div className="mr-4">
           <a
-            href="https://www.linkedin.com/in/charlie-tomas-a5577218b/"
+            href="https://www.linkedin.com/in/charlietomas/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-blue-500 text-white font-extrabold text-lg py-2 px-4 rounded-2xl flex items-center"
